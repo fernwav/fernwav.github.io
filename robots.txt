@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://fernwav.github.io/sitemap.txt
